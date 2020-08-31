@@ -1,0 +1,17 @@
+C:\Users\hossa\OneDrive\Desktop\Go-Alpha\Go-Alpha\bin\Debug\Go-Alpha.exe.config
+C:\Users\hossa\OneDrive\Desktop\Go-Alpha\Go-Alpha\bin\Debug\Go-Alpha.exe
+C:\Users\hossa\OneDrive\Desktop\Go-Alpha\Go-Alpha\bin\Debug\Go-Alpha.pdb
+C:\Users\hossa\OneDrive\Desktop\Go-Alpha\Go-Alpha\bin\Debug\Go-Alpha.xml
+C:\Users\hossa\OneDrive\Desktop\Go-Alpha\Go-Alpha\obj\Debug\Go-Alpha.vbprojAssemblyReference.cache
+C:\Users\hossa\OneDrive\Desktop\Go-Alpha\Go-Alpha\obj\Debug\Go_Alpha.Form1.resources
+C:\Users\hossa\OneDrive\Desktop\Go-Alpha\Go-Alpha\obj\Debug\Go_Alpha.Resources.resources
+C:\Users\hossa\OneDrive\Desktop\Go-Alpha\Go-Alpha\obj\Debug\Go-Alpha.vbproj.GenerateResource.cache
+C:\Users\hossa\OneDrive\Desktop\Go-Alpha\Go-Alpha\obj\Debug\Go-Alpha.vbproj.CoreCompileInputs.cache
+C:\Users\hossa\OneDrive\Desktop\Go-Alpha\Go-Alpha\obj\Debug\Go-Alpha.exe
+C:\Users\hossa\OneDrive\Desktop\Go-Alpha\Go-Alpha\obj\Debug\Go-Alpha.xml
+C:\Users\hossa\OneDrive\Desktop\Go-Alpha\Go-Alpha\obj\Debug\Go-Alpha.pdb
+C:\Users\hossa\OneDrive\Desktop\Go-Alpha\Go-Alpha\obj\Debug\Go_Alpha.frmMessageOfTime.resources
+C:\Users\hossa\OneDrive\Desktop\Go-Alpha\Go-Alpha\obj\Debug\Go_Alpha.frmTime.resources
+C:\Users\hossa\OneDrive\Desktop\Go-Alpha\Go-Alpha\obj\Debug\Go_Alpha.fremMainWindow.resources
+C:\Users\hossa\OneDrive\Desktop\Go-Alpha\Go-Alpha\obj\Debug\Go_Alpha.Form3.resources
+C:\Users\hossa\OneDrive\Desktop\Go-Alpha\Go-Alpha\obj\Debug\Go_Alpha.Camera_window.resources
